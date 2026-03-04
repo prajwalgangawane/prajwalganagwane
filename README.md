@@ -1,26 +1,32 @@
 # Prajwal Gangawane
-## Bringing bright ideas to life with innovation and passion.
+
+## Bringing bright ideas to life with innovation and passion
+
 ---
 
-👨‍💻 **Full Stack Developer | Builder of Ideas | Problem Solver**  
-With over 3 years of hands-on experience, I’m passionate about creating web applications that don’t just work—they make a difference. Whether it's frontend or backend, I love tackling challenges and bringing ideas to life through code that’s both effective and elegant.
+🧠 **Designing Systems That Scale**
+With **4+ years of hands-on experience**, I focus on designing and building systems that hold up in real-world conditions. I enjoy breaking down complex problems and shaping **simple, scalable architectures** using clear structure, meaningful metrics, and thoughtful trade-offs.
 
-🎓 **AI & ML Explorer @ BITS Pilani**  
-Currently diving deep into AI and Machine Learning as part of my Master’s journey. It’s been an exciting ride, and I’m eager to apply what I’m learning to real-world projects, blending advanced tech with practical development.
+🤖 **AI Development, Applied Thoughtfully**
+I work on **AI-driven and AI-assisted systems** where intelligence is embedded into workflows rather than treated as a separate layer. My interests lie in backend-heavy AI applications, automation, and decision-support systems—built with reliability, observability, and long-term maintainability in mind.
 
-📋 **Project Management Enthusiast**  
-I’ve realized that good ideas need good execution, and that’s where my interest in **project management** comes in. I enjoy keeping projects organized, on track, and delivering results that make clients and teams proud.
+🎓 **AI & Machine Learning — Master’s Completed**
+I’ve completed my Master’s in **AI and Machine Learning** from **BITS Pilani**, with a strong focus on applying ML concepts to real production systems instead of isolated experiments.
 
-🚀 **Always Up for a New Challenge**  
-Whether it’s collaborating on a new product or joining forces on a passion project, I’m always looking for opportunities to build something meaningful. Let’s talk about how we can create something awesome together.
+📐 **How I Like to Build**
 
-🔍 **Looking for the Next Big Opportunity**  
-I’m actively searching for roles or partnerships where I can make a real impact. If you're looking for a dedicated, creative problem solver who’s always learning and improving, let's connect!
+* System design before implementation
+* Metrics and feedback over assumptions
+* Clarity over unnecessary complexity
+* Systems that age well
 
-💬 **Reach Out If You Want to Chat About...**  
-- Full Stack Development & Managing Projects  
-- Cool Cars & Automobiles  
-- Fitness & Staying Healthy in a Busy World  
-- Or just tech stuff in general—I’m always up for a good conversation!
+🚀 **Always Building, Always Improving**
+Whether it’s refining an existing platform or experimenting with intelligent workflows, I enjoy building things that last and learning continuously along the way.
+
+💬 **Happy to Talk About**
+
+* System design, backend architecture & AI systems
+* Tech trends, developer tools & engineering ideas
+* Games 🎮, long drives 🚗, and good food 😄
 
 ---
